@@ -3,4 +3,4 @@ const app = express();
 app.get('/', (req, res) => {
 res.send('CI/CD работает');
 });
-module.exports = app;
+module.exports = app;"// test commit" 
